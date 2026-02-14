@@ -1,5 +1,7 @@
 # snake-game-JavaScript
 
+## Click Here to Play the Live Game! (https://ahmedawan216.github.io/snake-game-JavaScript/)
+
 A responsive, logic-based Snake Game built with Vanilla JavaScript. This project demonstrates core programming concepts like game loops, coordinate systems, and dynamic DOM manipulation.
 
 ## Key Features
